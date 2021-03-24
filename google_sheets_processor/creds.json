@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "influential-kit-292312",
+  "private_key_id": "a11194ed5386247d87e29b47a325d3b1d6cb7868",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWPxfrBM/CXaW9\nZQ2I70ebmdLR/0sIIz5mzWDQFy2cDhiuy6lKrKyaf0/T2bIZk24JTVd2Dp5K5MoE\nWo06956wAQbKO3AZuc8MMcFrFAsvZixUGv6vFL8BxixBwxGpGu3Prlp85tiP6V3f\nC8CYdfaydBmA/X49XIG9W2bNemsvnvXd2BzVHpvcK53RCj+PtdVgAgC3lqVJ4ubv\nlcJJn/NS8/lF0qJ5sYpC/MbmeuJBtVfihvk7x4TyhYQrxV5GjKuZL8B4vK9NG/04\nvaTWhOCmZ5uy0t0Be1p10FQh/Yg8JX2j1iAnyy1/DDUYS253sZNC8fgWLIqIct/3\nijZWSF6jAgMBAAECggEATXHdKX1BxJapdL70l403K039YR+Rdc2Xnv2ag139hK2r\nynOgLHgipG5k4sWMlaYvXnlwpiI+of/17oD1EF22JRUZ6Tx3FzWNXHEX46cJLAcY\n+wYPDibHrNJ/6P2kgqZTVIFIAGJJ4iuPXTMYWYQ6uuMw3OnFGlU4KMTDcn9QA5Qf\nAJ8mO8+r0aJwwEzsCS9SlyE7YWuGG5WkccN2keofAqXxepx6froma8eKa7tA9G+X\ni78PFJfxd+eC+EZ1ePIrlooXQnX9POgYJGy5+7IvjKFjy281emrM0nuH43+Zy13O\nEu4VOSldgHOQxPJEtlLRqEpLmuCq0rNh46PjUWzXEQKBgQD0X2pk3AECeNTl5ZdD\nWLRMHlq9+X5RaZV/BcOpbXaZojJmhtjpYg8LJSNVHvaUYeOSRR1+jCfJ+BRNLOm4\ndJOZ4fYeFK8lrgaZ3ivuN7ghpQmnyEsrtKUxcSr61HX8rnkP9x2Bi73aCvY67WLw\nMxpP8cbmvUERqta+hNosNPqs7QKBgQDgcLmBIb+GI4kt8ANPUFI30NECspvo3FmY\nVO7nKHI3upnkLQbZ+TgQcJUahBbfaotLNXiT0zrzXe+CQKcROBiH/kTU774X4wTS\nVA3wBL59ciF/gJirjiWCBrH89pD5z1Yt0sz6FPIsbFvQy7ctXbAjnwRW3LAxOiF5\nLwV2odpXzwKBgQCUcFUPWPggCUfBMhoU5Y/3YMTb+u45A7q0gsrcYsqU/gpBbw3Z\njh/3NCLnNLyxW1jB48vLr9UHgPLMAkkiK2XxJmm60fOmHrSRyHvE4wGtJjPcP/Ux\nYjSp+MUTwfS9fTm6ce/xXfH/vYLePo5Hu7Ly9rlMNY+N7Mkux0JDchcG7QKBgQCa\nAmAYzzqoZjwczKTIyRoR+PVjf4Ji0MmeMTHaZzOxMBenrooUCuLAzTBTiK5VUrwQ\nuLlr3reGBkByxcCenTqgHwfGgliT9ZD6bvk9aVP5qtZ3spuQpTLxvXxnVB55fR/q\nw8sqFDN17kk2xoOE2tQiLV0B6d/xd60+hdie5kN4mwKBgB7zLUpy0401RwouSvGa\neg5exBIV6ipQ8VHLGsTcK98X2xvrA7G8G30M9hW0qrzIfLQ1EkfimhaZaqSKmNIJ\n4qre/PlVJSlTojkrpIuXsrpudp9zq7e/827AGil3z/8hbjCVkAjmJerQgQaS1oNo\nhrV8kD1OKedO/II7DQSi5qC6\n-----END PRIVATE KEY-----\n",
+  "client_email": "driveapi@influential-kit-292312.iam.gserviceaccount.com",
+  "client_id": "111126499682167037359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/driveapi%40influential-kit-292312.iam.gserviceaccount.com"
+}
